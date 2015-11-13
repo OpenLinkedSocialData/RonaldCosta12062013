@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#RonaldCosta12062013">
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">scherolt</ns1:sid>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RonaldCosta12062013/master/rdf/RonaldCosta12062013Meta.owl</po:discorveryRDFFile>
+    <rdfs:label>Snapshot RonaldCosta12062013</rdfs:label>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RonaldCosta12062013/master/rdf/RonaldCosta12062013Translate.owl</po:rdfFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Ronald Scherolt Costa</rdfs:comment>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/</po:availableAt>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RonaldCosta</po:donatedBy>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RonaldCosta12062013/master/base/RonaldCosta12062013.gml.</po:originalFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-06-12</po:createdAt>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RonaldCosta12062013/master/rdf/RonaldCosta12062013Meta.ttl</po:discoveryTTLFile>
+    <ns1:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1457302032</ns1:uid>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RonaldCosta12062013/master/rdf/RonaldCosta12062013Translate.ttl</po:ttlFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-13T03:27:13.259664</po:triplifiedIn>
+  </rdf:Description>
+</rdf:RDF>
